@@ -1,2 +1,2 @@
 # TicTacToe
-its a simple TicTacToe game website
+its a simple TicTacToe game webpage
